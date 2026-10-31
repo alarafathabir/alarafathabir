@@ -1,4 +1,4 @@
- Hey there! 👋
+##Hey there..👋
 I'm Abir,a Computer Science & Engineering student at Bangladesh Army University of Science and Technology (BAUST), Bangladesh.
 
 I'm passionate about programming and building things with technology.Currently exploring different areas of software development, improving my coding skills, and turning ideas into practical projects.I'm always curious about how things work and enjoy learning new technologies along the way.
